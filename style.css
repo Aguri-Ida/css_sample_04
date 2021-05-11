@@ -1,0 +1,36 @@
+body {
+    background-color: silver;
+    background-image:url("images/myusha03.jpg");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    background-image:url("images/myusha01.jpg");
+
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+    background-image: url("images/myusha02.jpg");
+}
